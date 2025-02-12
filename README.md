@@ -64,6 +64,12 @@ My journey in cybersecurity has fueled my passion for securing systems and mitig
     <img src="https://img.shields.io/badge/-Adobe-FF0000?&style=for-the-badge&logo=adobe&logoColor=white" />
 </div>
 
+## Degrees
+<div>
+    <img src="https://img.shields.io/badge/-George%20Mason%20University-006633?&style=for-the-badge&logo=microsoftacademic&logoColor=white" />
+<img src="https://img.shields.io/badge/-B.Sc.%20Cybersecurity%20Engineering-0078D4?&style=for-the-badge&logo=security&logoColor=white" />
+</div>
+
 ## Certifications
 <div>
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
