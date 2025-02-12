@@ -64,6 +64,3 @@ My journey in cybersecurity has fueled my passion for securing systems and mitig
 <img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 </div>
 
-## Projects
-- Detection Lab
-- SOC Automation Project
