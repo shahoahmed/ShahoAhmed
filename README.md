@@ -7,18 +7,6 @@ I am a recent cybersecurity engineering graduate with a passion for securing sys
 
 My journey in cybersecurity has fueled my passion for securing systems and mitigating threats. I am eager to begin my career as a Cybersecurity Analyst, leveraging my skills in penetration testing, cloud security, and threat detection.
 
-## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
-
-| Skill                                         | Associated Project         |
-|-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
-
 ## Tools
 
 ### Penetration Testing & Security Analysis
