@@ -1,14 +1,12 @@
 # Hello, I'm Shaho Ahmed
 <a href="https://linkedin.com/in/shaho-ahmed"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-I am a recent cybersecurity engineering graduate with a passion for securing systems, solving complex problems, and building innovative solutions
+Cybersecurity Engineering graduate with a non-traditional path into the field — from immigrating to the U.S. and restarting my education, to building and running two businesses from the ground up. I bring an entrepreneur's discipline and a security engineer's precision to everything I do.
 
 ## Objective
-
-My journey in cybersecurity has fueled my passion for securing systems and mitigating threats. I am eager to begin my career as a Cybersecurity Analyst, leveraging my skills in penetration testing, cloud security, and threat detection.
+My road to cybersecurity hasn't been a straight line. I immigrated to the U.S. from Iraq, and the difference in education systems meant starting school over from where I left off — an early lesson in resilience that's stuck with me ever since. To put myself through college, I built an online health and fitness coaching business, helping clients lose weight, build strength, and work through mobility issues; it grew into a following of nearly 200K across TikTok and Instagram. During my senior year, I also founded a private transportation company in the DC area, which has since grown to include contracts with law firms, NGOs, and political offices, backed by a team of 8 full-time drivers who stay booked Monday through Friday. Running these businesses taught me how to think on my feet, manage people, and allocate time and resources under real pressure — whether that's talking a client off the ledge before a wedding or getting a driver to a courthouse before a hearing starts. I've built a good living as an entrepreneur, but cybersecurity has always been where my heart is, and I'm now making that transition — bringing the same drive, adaptability, and problem-solving mindset into penetration testing, cloud security, and threat detection as a Cybersecurity Analyst.
 
 ## Tools
-
 ### Penetration Testing & Security Analysis
 <div>
     <img src="https://img.shields.io/badge/-Nmap-00437A?&style=for-the-badge&logo=nmap&logoColor=white" />
@@ -62,5 +60,9 @@ My journey in cybersecurity has fueled my passion for securing systems and mitig
 <div>
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+<img src="https://img.shields.io/badge/-Oracle%20Cloud%20Infrastructure%20Multicloud%20Architect-F80000?&style=for-the-badge&logo=oracle&logoColor=white" />
+<img src="https://img.shields.io/badge/-Oracle%20Cloud%20Infrastructure%20Generative%20AI%20Professional-F80000?&style=for-the-badge&logo=oracle&logoColor=white" />
+<img src="https://img.shields.io/badge/-Oracle%20Autonomous%20Database%20Cloud%20Professional-F80000?&style=for-the-badge&logo=oracle&logoColor=white" />
+<img src="https://img.shields.io/badge/-AWS%20VPC-232F3E?&style=for-the-badge&logo=amazonaws&logoColor=white" />
+<img src="https://img.shields.io/badge/-Azure%3A%20Deploy%20VM%20%26%20Web%20Server-0078D4?&style=for-the-badge&logo=microsoftazure&logoColor=white" />
 </div>
-
