@@ -13,6 +13,15 @@ My road to cybersecurity hasn't been a straight line. I immigrated to the U.S. f
     <img src="https://img.shields.io/badge/-Metasploit-0579C3?&style=for-the-badge&logo=metasploit&logoColor=white" />
     <img src="https://img.shields.io/badge/-Burp%20Suite-FF6600?&style=for-the-badge&logo=burpsuite&logoColor=white" />
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Kali%20Linux-557C94?&style=for-the-badge&logo=kalilinux&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Linux%2FUbuntu-E95420?&style=for-the-badge&logo=linux&logoColor=white" />
+</div>
+
+### SOC & Threat Detection
+<div>
+    <img src="https://img.shields.io/badge/-Elastic%20Stack%20(ELK)-005571?&style=for-the-badge&logo=elasticsearch&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Sysmon-0078D6?&style=for-the-badge&logo=windows&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Elastic%20Beats-005571?&style=for-the-badge&logo=elastic&logoColor=white" />
 </div>
 
 ### Cloud
@@ -20,6 +29,8 @@ My road to cybersecurity hasn't been a straight line. I immigrated to the U.S. f
     <img src="https://img.shields.io/badge/-Amazon%20AWS-232F3E?&style=for-the-badge&logo=amazonaws&logoColor=white" />
     <img src="https://img.shields.io/badge/-AWS%20Fargate-FF9900?&style=for-the-badge&logo=amazonaws&logoColor=white" />
     <img src="https://img.shields.io/badge/-AWS%20ECR%2FECS-FF9900?&style=for-the-badge&logo=amazonaws&logoColor=white" />
+    <img src="https://img.shields.io/badge/-AWS%20SageMaker-FF9900?&style=for-the-badge&logo=amazonaws&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Microsoft%20Azure-0078D4?&style=for-the-badge&logo=microsoftazure&logoColor=white" />
     <img src="https://img.shields.io/badge/-Docker-2496ED?&style=for-the-badge&logo=docker&logoColor=white" />
 </div>
 
@@ -28,6 +39,16 @@ My road to cybersecurity hasn't been a straight line. I immigrated to the U.S. f
     <img src="https://img.shields.io/badge/-VMware-607078?&style=for-the-badge&logo=vmware&logoColor=white" />
     <img src="https://img.shields.io/badge/-VirtualBox-183A61?&style=for-the-badge&logo=virtualbox&logoColor=white" />
     <img src="https://img.shields.io/badge/-Virginia%20Cyber%20Range-5A5A5A?&style=for-the-badge&logo=security&logoColor=white" />
+</div>
+
+### Programming & Languages
+<div>
+    <img src="https://img.shields.io/badge/-Python-3776AB?&style=for-the-badge&logo=python&logoColor=white" />
+    <img src="https://img.shields.io/badge/-SQL-4479A1?&style=for-the-badge&logo=mysql&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Angular-DD0031?&style=for-the-badge&logo=angular&logoColor=white" />
+    <img src="https://img.shields.io/badge/-TypeScript-3178C6?&style=for-the-badge&logo=typescript&logoColor=white" />
+    <img src="https://img.shields.io/badge/-HTML5-E34F26?&style=for-the-badge&logo=html5&logoColor=white" />
+    <img src="https://img.shields.io/badge/-CSS3-1572B6?&style=for-the-badge&logo=css3&logoColor=white" />
 </div>
 
 ### Development & Programming
@@ -42,12 +63,23 @@ My road to cybersecurity hasn't been a straight line. I immigrated to the U.S. f
 <div>
     <img src="https://img.shields.io/badge/-GitHub-181717?&style=for-the-badge&logo=github&logoColor=white" />
     <img src="https://img.shields.io/badge/-Git%20Bash-F05032?&style=for-the-badge&logo=git&logoColor=white" />
+    <img src="https://img.shields.io/badge/-PowerShell-5391FE?&style=for-the-badge&logo=powershell&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Azure%20CLI-0078D4?&style=for-the-badge&logo=microsoftazure&logoColor=white" />
 </div>
 
 ### Productivity & Documentation:
 <div>
     <img src="https://img.shields.io/badge/-Microsoft%20Office-D83B01?&style=for-the-badge&logo=microsoftoffice&logoColor=white" />
     <img src="https://img.shields.io/badge/-Adobe-FF0000?&style=for-the-badge&logo=adobe&logoColor=white" />
+</div>
+
+### Frameworks & Compliance
+<div>
+    <img src="https://img.shields.io/badge/-NIST%20SP%20800--171-002868?&style=for-the-badge&logo=nist&logoColor=white" />
+    <img src="https://img.shields.io/badge/-NIST%20CSF-002868?&style=for-the-badge&logo=nist&logoColor=white" />
+    <img src="https://img.shields.io/badge/-DFARS%20252.204--7012-1A1A1A?&style=for-the-badge&logo=shield&logoColor=white" />
+    <img src="https://img.shields.io/badge/-CMMC%20Level%202-1A1A1A?&style=for-the-badge&logo=shield&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Zero%20Trust%20Architecture-1A1A1A?&style=for-the-badge&logo=shield&logoColor=white" />
 </div>
 
 ## Degrees
