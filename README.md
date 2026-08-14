@@ -3,8 +3,6 @@
 
 <p align="center">
 <a href="https://www.linkedin.com/in/shaho-ahmed"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:shahoaumed@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
 
 <p align="center">
 Cybersecurity Engineering graduate with a non-traditional path into the field. I build hands-on detection labs that simulate real adversary behavior, engineer the detections to catch it, and document the whole thing like a working SOC. I bring an entrepreneur's discipline and a detection engineer's precision to everything I do.
